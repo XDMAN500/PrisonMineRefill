@@ -1,0 +1,14 @@
+main:  me.varmetek.plugin.prisonminerefill.PrisonMineRefillPlugin
+name: PrisonMineRefill
+version: 1.0
+author: Varmetek
+description: A plugin for refilling prison mines
+softdepend: [WorldEdit,WorldGuard,FAWE]
+api-version: 1.13
+commands:
+  mine:
+  editmine:
+  removemine:
+  createmine:
+  selectmine:
+  unselectmine:

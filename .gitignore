@@ -1,0 +1,31 @@
+# Backups & temporary files
+*~
+*.bak
+*.swp
+
+# macOS stuff
+.DS_Store
+
+# Compiled bytecode
+*.class
+
+# Zip archives
+*.zip
+
+# JVM crash logs
+hs_err_pid*
+
+# Eclipse workspace metadata (but *please* don't use Eclipse...)
+.metadata/**
+.recommenders/**
+.settings/**
+bin/**
+
+# IntelliJ
+.idea/**
+target/**
+out/**
+*.iml
+
+#Dependency Libraries
+libs/**
